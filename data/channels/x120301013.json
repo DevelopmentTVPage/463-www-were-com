@@ -1,0 +1,19 @@
+{
+    "title": "Basic Test Channel",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1507073944",
+    "date_modified": "1507073944",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "120301013",
+    "loginId": "1759037",
+    "entityType": "3",
+    "titleTextEncoded": "Basic-Test-Channel",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
