@@ -1,9 +1,9 @@
 {
-    "title": "Basic Test Channel Name Change 2",
-    "description": "",
+    "title": "Basic Test Channel Name Change Check on Table",
+    "description": "This is a channel for table",
     "referenceId": null,
     "date_created": "1507073944",
-    "date_modified": "1507076197",
+    "date_modified": "1507076648",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -11,16 +11,16 @@
     "id": "120301013",
     "loginId": "1759037",
     "entityType": "3",
-    "titleTextEncoded": "Basic-Test-Channel",
+    "titleTextEncoded": "Basic-Test-Channel-name-Change-On-Table",
     "category": null,
     "duration": null,
     "settings": {
-        "canvasImage": "313905355-0.jpg",
+        "canvasImage": "693764058-0.jpg",
         "colorClass": "light",
         "canvasType": "cropped",
-        "enableSubscribers": true,
-        "canvasCropped": "313905355-51659709111.jpg",
-        "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759037\/canvas\/193\/52\/313905355-51659709111.jpg"
+        "enableSubscribers": false,
+        "canvasCropped": "693764058-0331274748.jpg",
+        "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759037\/canvas\/1274\/715\/693764058-0331274748.jpg"
     },
     "transcripts": null
 }
