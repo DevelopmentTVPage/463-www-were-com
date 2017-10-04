@@ -3,7 +3,7 @@
     "description": "",
     "referenceId": null,
     "date_created": "1507073944",
-    "date_modified": "1507074605",
+    "date_modified": "1507076197",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -15,9 +15,12 @@
     "category": null,
     "duration": null,
     "settings": {
-        "canvasImage": "default_canvas3.jpg",
+        "canvasImage": "313905355-0.jpg",
         "colorClass": "light",
-        "canvasType": "gallery"
+        "canvasType": "cropped",
+        "enableSubscribers": true,
+        "canvasCropped": "313905355-51659709111.jpg",
+        "canvasUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759037\/canvas\/193\/52\/313905355-51659709111.jpg"
     },
     "transcripts": null
 }
